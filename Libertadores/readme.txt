@@ -1,3 +1,3 @@
 Libertadores
 
-https://github.com/VictorVHTI/imgQPRO/blob/master/Libertadores/Arsenal.svg
+https://raw.githubusercontent.com/VictorVHTI/imgQPRO/master/Libertadores/BocaJuniors2.svg
