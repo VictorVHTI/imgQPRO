@@ -1,0 +1,1 @@
+rayas verticales
